@@ -79,8 +79,8 @@
 ### 3.1 安装驱动
 
 ```bash
-git clone https://github.com/fishros/multiproto_ros2_driver
-cd multiproto_ros2_driver
+git clone https://github.com/fishros/multiproto_ros_driver
+cd multiproto_ros_driver
 colcon build
 source install/setup.bash
 ```
